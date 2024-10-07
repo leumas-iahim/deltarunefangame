@@ -1,0 +1,1633 @@
+fileFormatVersion: 2
+guid: 45989b98303a44b49b3ad1e5144b5baa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BR1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1224
+        width: 705
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddc03c4974277f4fa7ec80c5530fc33
+      internalID: -976925133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BR2
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1224
+        width: 706
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d422da777e1f04ebd60e8026c91b86
+      internalID: -1530341482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BR3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 981
+        width: 704
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba14b3ac4b026843b3628f2e4a15aae
+      internalID: -1386566189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BR4
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 980
+        width: 707
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e1252f3862a7248936a31d2606ad9a
+      internalID: -1388328595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BR5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 737
+        width: 708
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01063440808d9b34d8925ea2378fab88
+      internalID: 70297602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVS1
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 911
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d0de1da8b847049a65aa9319edced9
+      internalID: -486112905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVS2
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 911
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24f2ba3a89102d4db7709cba79eddce
+      internalID: -1246051747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVS3
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 910
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7967bf404e63274cb60bce86c8fb904
+      internalID: 2136949701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVS4
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 910
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33086bb92eef31a4da039029c074418b
+      internalID: -1153863264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVS5
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 910
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77f61c651a10df41a1b9b246db9f8c9
+      internalID: 2059183812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TVS6
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 910
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba50005f51039e47968de73cd222391
+      internalID: 1609705042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stTV1
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 936
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cca55c845042d43ae9640ff9c07bad
+      internalID: -434302904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stTV2
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 936
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306b7d56fa0d08a4891fd0fab03fa501
+      internalID: -1930281925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stTV3
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 936
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e5426d4d156bd4c8b5797bb7ed7ff2
+      internalID: 256763318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stTV4
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 936
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327c781d0a1c7cb4d9120e9cf5ed13bf
+      internalID: 1307537969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stTV_smailefade
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 936
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3726516d528894993fd7138596596d
+      internalID: 515429778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stTV_smailefadedfule
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 935
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a020bd17c2843d84d9f1bb1b9834c89d
+      internalID: 323770054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stTV_smailefade2
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 936
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842377a2d2561df4095f7b4f38a88779
+      internalID: 2096319902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stTV_smailefade3
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 936
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe5838be0890324d8cd02dde0bbb4c7
+      internalID: -1664522685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pie
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 892
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74e6ca5621f92747b72c957c8032b6e
+      internalID: -1846299427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chearraehc
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 854
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5800c9e9af69c543b7f3d9c27a5dbb0
+      internalID: -2079530021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teable&cHeArBLe
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 860
+        width: 415
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286a246a358244742bc7dbbdea02cf62
+      internalID: -1410602891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teable&cHeArBLe_Dark
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 803
+        width: 415
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e428a2190867f43b1ad2d80d6c86b6
+      internalID: -1288056758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chearraehc_dark
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 798
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7544b113e95267640b0e855f86ebe762
+      internalID: -387658459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 828
+        width: 141
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169f1e2b83b0d8c44909ec28ec8cb784
+      internalID: -1592083761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorlooslyopen
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 772
+        width: 23
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875637037ef0c0a4c821921cf477af75
+      internalID: -518507716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 490
+        width: 707
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c7ee0862fae3d489218b769b584533
+      internalID: -491906690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 492
+        width: 706
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e3646327834754f8fee7e5d61eea8d
+      internalID: -2078287847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A&Kroom_Day
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 249
+        width: 320
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2347932a942616e49b977fb42dfdef39
+      internalID: 276274068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A&Kroom_Night
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 248
+        width: 320
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5339a41f5c8dddd4280a7868fba5446d
+      internalID: 338310417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BathRoom(1)
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 320
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed03160421314f04bbd327d9717ffabb
+      internalID: -181862300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BathRoom(2)
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 4
+        width: 320
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fc386c9caeb374087eab49d1a04057
+      internalID: -399780523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2
+        width: 315
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb6cc723bc288e4d8aca476318fdf93
+      internalID: -1227616143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroomwindow1
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 172
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8874ceed53cc8a48a8ca822b033a504
+      internalID: -239158870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroomwindow2
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 172
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e18e0e660ccfa04e946560a5ada7cf7
+      internalID: 1919067928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroomwindow3
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 172
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f50a2eedcc2b74c8ff397a9a8f7779
+      internalID: -136756773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroomwindow4
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 172
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf27a55dec4c8b4e9af9665a9046b1e
+      internalID: -826216900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroomsink
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 133
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203fbaa0ca2c70440a6b0a65d6fc54af
+      internalID: -1638578581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroomsink2
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 133
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3aa1adc23694c344bb86831176d893a
+      internalID: -50464210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroomsink3
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 133
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202906c490a4de3498aab9dff5609185
+      internalID: 2065307065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroomsink4
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 133
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea03d7aca140a046a16a2ed7d36c4b8
+      internalID: 1638807706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroomsink5
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 133
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be04676553a7ab7428267e4417a94fac
+      internalID: -399721055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroomsink6
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 133
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72125b8ff3acd9345889b4d2aa520fd6
+      internalID: 2108348439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroomsink7
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 92
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df228add3b925864f960e55eb882996f
+      internalID: -701154222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroomsink8
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 93
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99606317a05865f47972cb0bbc971b6c
+      internalID: 1129743311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroomsink9
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 93
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3585d679743e04d8a52eb9e421a86a
+      internalID: 1426880620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroomsink10
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 93
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebbf32797d74804a9f5f76bbf942b66
+      internalID: -1525318044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroomsink11
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 93
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579b31329d405df42aceef1405bc9707
+      internalID: 1993483378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroomsink12
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 93
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485b78a63ed01d34cbda979cefd3251e
+      internalID: 960288789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroomsink13
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 56
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746bf726ed7d53d4fa582c90e332ee7e
+      internalID: -1637311640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroomsink14
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 56
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544b12378df287945b64ee58b71ee9ca
+      internalID: 694020363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroomsink15
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 56
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed290069b96a964f97cca6e3b27c497
+      internalID: -790508493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upstairshallway
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 249
+        width: 538
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6214a593db4a48c488e60d04bc087a02
+      internalID: -1621854600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window_1
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 444
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ccdf2cc0e79e04f9d4b1acae374588
+      internalID: -383418665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: window_2
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 446
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc78916829f6b6f4784542f51c8f6d48
+      internalID: 7824508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_sleeping
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 451
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb7a6c3789e79744b72de7d92d1da2a
+      internalID: 1196753533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: out_ofBedDay
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 450
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d2f9f80768a504c8cc236302f27369
+      internalID: 1543157663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: out_ofBedNight
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 330
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e669a0322a965640b4561db26c8f19c
+      internalID: -412808118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inbed1
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 348
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d0ec646f65bfb46a517f88fc8a730d
+      internalID: 674974884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inbed2
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 352
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f070e0f30c9284e479e83411cf58b5d3
+      internalID: 1611538700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inbed3
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 347
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d17b118d180b6d4bb6990280e4aeb3c
+      internalID: 510906715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mat
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 280
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380581539344ee748b67a441b48aa85a
+      internalID: 595362669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A's_Computer
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 456
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba1f94a23f5ac24d9ed5be15fd54f4c
+      internalID: -1364684496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soul
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 425
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8c1273b88ea0f4e8ea9b04b9477c3b
+      internalID: 962120580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cart
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 410
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b130e23541465348b69de724c4458e9
+      internalID: -1796720338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cage
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 420
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3359393b66518488f0b0ed0d11396a
+      internalID: -214410537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cart_withoutCage
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 410
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b86ef8af018ad94dac6f5434cd49305
+      internalID: 740902593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cart_withCage2
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 410
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f38c8fc8d380b6498e4f3dff757b3b2
+      internalID: -557124430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cart_withcage
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 410
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd5df2dbc3bb774abe705cd86d43596
+      internalID: 2135763574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1: -2078287847
+      110472 (1)_1: -2114331076
+      2: -491906690
+      3: -1227616143
+      A&Kroom_Day: 276274068
+      A&Kroom_Night: 338310417
+      A's_Computer: -1364684496
+      BR1: -976925133
+      BR2: -1530341482
+      BR3: -1386566189
+      BR4: -1388328595
+      BR5: 70297602
+      BathRoom(1): -181862300
+      BathRoom(2): -399780523
+      TVS1: -486112905
+      TVS2: -1246051747
+      TVS3: 2136949701
+      TVS4: -1153863264
+      TVS5: 2059183812
+      TVS6: 1609705042
+      bathroomsink: -1638578581
+      bathroomsink10: -1525318044
+      bathroomsink11: 1993483378
+      bathroomsink12: 960288789
+      bathroomsink13: -1637311640
+      bathroomsink14: 694020363
+      bathroomsink15: -790508493
+      bathroomsink2: -50464210
+      bathroomsink3: 2065307065
+      bathroomsink4: 1638807706
+      bathroomsink5: -399721055
+      bathroomsink6: 2108348439
+      bathroomsink7: -701154222
+      bathroomsink8: 1129743311
+      bathroomsink9: 1426880620
+      bathroomwindow1: -239158870
+      bathroomwindow2: 1919067928
+      bathroomwindow3: -136756773
+      bathroomwindow4: -826216900
+      bed_sleeping: 1196753533
+      cage: -214410537
+      cart: -1796720338
+      cart_withCage2: -557124430
+      cart_withcage: 2135763574
+      cart_withoutCage: 740902593
+      chearraehc: -2079530021
+      chearraehc_dark: -387658459
+      doorlooslyopen: -518507716
+      inbed1: 674974884
+      inbed2: 1611538700
+      inbed3: 510906715
+      mat: 595362669
+      out_ofBedDay: 1543157663
+      out_ofBedNight: -412808118
+      pie: -1846299427
+      sofa: -1592083761
+      soul: 962120580
+      stTV1: -434302904
+      stTV2: -1930281925
+      stTV3: 256763318
+      stTV4: 1307537969
+      stTV_smailefade: 515429778
+      stTV_smailefade2: 2096319902
+      stTV_smailefade3: -1664522685
+      stTV_smailefadedfule: 323770054
+      teable&cHeArBLe: -1410602891
+      teable&cHeArBLe_Dark: -1288056758
+      upstairshallway: -1621854600
+      window_1: -383418665
+      window_2: 7824508
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
